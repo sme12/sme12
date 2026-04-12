@@ -14,8 +14,8 @@
 
 ## Contacts
 
-<div style="display:flex; align-items:center; gap: 20px;">
+<div>
   <a href="https://www.linkedin.com/in/vitalii-sazanov-71833758/"><img src="./assets/li.svg" width="24px"></a>
-  <a href="https://x.com/vitalii_sazanov"><img src="./assets/x.svg" width="24px"></a>
-  <a href="mailto:sazanovvs@gmail.com"><img src="./assets/mail.svg" width="24px"></a>
+  <a href="https://x.com/vitalii_sazanov"><img src="./assets/x.svg" width="24px" style="margin-left: 12px"></a>
+  <a href="mailto:sazanovvs@gmail.com"><img src="./assets/mail.svg" width="24px" style="margin-left: 12px"></a>
 </div>
